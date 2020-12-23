@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+You might know me from [My Blog](https://georgearisty.dev), [Twitter](https://twitter.com/llorllale), [Dzone](https://dzone.com/users/3131817/llorllale.html), or several other places.
+
+You've found my base of operations.
+
+- 🔭 I’m currently working on authentication and authorization of digital identities
+- 🌱 I’m currently learning Kubernetes
+- 💬 Ask me about OAuth2, OIDC, DIDComm, Verifiable Credentials, Golang, Java
+
 <!--
 **llorllale/llorllale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
