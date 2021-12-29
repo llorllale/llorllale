@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You might know me from [My Blog](https://georgearisty.dev), [Twitter](https://twitter.com/llorllale), [Dzone](https://dzone.com/users/3131817/llorllale.html), or several other places.
+You might know me from [My Blog](https://georgearisty.dev), [Twitter](https://twitter.com/llorllale), [DZone](https://dzone.com/users/3131817/llorllale.html), or several other places.
 
 You've found my base of operations.
 
