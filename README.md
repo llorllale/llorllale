@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-You might know me from [My Blog](https://georgearisty.dev), [Twitter](https://twitter.com/llorllale), [DZone](https://dzone.com/users/3131817/llorllale.html), or several other places.
+You might know me from [My Blog](https://georgearisty.dev), [LinkedIn](https://www.linkedin.com/in/georgearisty/), [Twitter](https://twitter.com/llorllale), [DZone](https://dzone.com/users/3131817/llorllale.html), or several other places.
 
 You've found my base of operations.
 
-- 🔭 I’m currently working on authentication and authorization of digital identities
-- 🌱 I’m currently learning Kubernetes
-- 💬 Ask me about OAuth2, OIDC, DIDComm, Verifiable Credentials, Golang, Java
+- 🔭 I’m currently helping organizations grow their expertise in Golang and Kubernetes to achieve scale
+- 🌱 I’m currently learning Kubernetes, Istio, and Google Cloud Platform (GCP)
+- 💬 Ask me about OAuth2, OIDC, DIDComm, Verifiable Credentials, Golang, Kubernetes, Istio, and GCP
 
 <!--
 **llorllale/llorllale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
